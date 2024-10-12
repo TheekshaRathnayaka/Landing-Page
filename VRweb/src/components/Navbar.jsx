@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Menu, X } from 'lucide-react';
 import logo from '../assets/logo.png';
 import { navItems } from '../constants';
@@ -36,7 +36,7 @@ const Navbar = () => {
               Sign In
             </a>
 
-            <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md">
+            <a href="#" className="bg-gradient-to-r from-pink-500 to-pink-800 py-2 px-3 rounded-md">
               Create an account
             </a>
           </div>
@@ -65,7 +65,7 @@ const Navbar = () => {
                 Sign In
               </a>
               
-              <a href="#" className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800">
+              <a href="#" className="py-2 px-3 rounded-md bg-gradient-to-r from-pink-500 to-pink-800">
                 Create an account
               </a>
             </div>
