@@ -4,3 +4,5 @@ AIForge, landing page for developer friendly tools.
 It consist of four sections as Features, Workflow, Pricing, & Testimonials. </br>
 Features section
 ![GL2](https://github.com/user-attachments/assets/2f4a8553-50fc-48e1-b6e4-0a96bb9f6c67)
+Workflow section
+![GL3](https://github.com/user-attachments/assets/ef4d4f07-ff46-4520-a181-a546858ba0cc)
