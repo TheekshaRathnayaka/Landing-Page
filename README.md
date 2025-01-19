@@ -8,3 +8,5 @@ Workflow section
 ![GL3](https://github.com/user-attachments/assets/ef4d4f07-ff46-4520-a181-a546858ba0cc)
 Pricing section
 ![GL4](https://github.com/user-attachments/assets/5a18962d-e502-47f9-915e-33009fdd63dd)
+Testimonials section
+![GL5](https://github.com/user-attachments/assets/a6ef0604-824e-4d3c-a4bc-42d2f7acf6c1)
