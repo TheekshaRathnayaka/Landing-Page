@@ -1,6 +1,3 @@
-import video3 from '../assets/video3.mp4';
-import video4 from '../assets/video4.mp4';
-
 const HeroSection = () => {
   return (
     <section id='home'>
@@ -31,12 +28,12 @@ const HeroSection = () => {
           <div className='flex justify-center mt-10'>
 
             <video autoPlay loop muted className='rounded-lg w-1/2 border border-pink-700 shadow-sm shadow-pink-400 mx-2 my-4'>
-              <source src={video3} type='video/mp4' />
+              <source src='/video3.mp4' type='video/mp4' />
               Your browser does not support the video tag.
             </video>
 
             <video autoPlay loop muted className='rounded-lg w-1/2 border border-pink-700 shadow-sm shadow-pink-400 mx-2 my-4'>
-              <source src={video4} type='video/mp4' />
+              <source src='/video4.mp4' type='video/mp4' />
               Your browser does not support the video tag.
             </video>
 
